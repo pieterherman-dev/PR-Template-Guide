@@ -41,7 +41,8 @@ To integrate these templates:
 4. Adapt it to fit your project's unique needs.
 
 ## Contributions
-Your input can enhance this guide significantly. For suggestions or improvements, feel free to submit a pull request or open an issue. Community collaboration is key to the success of this project.
+Your input can enhance this guide significantly. For suggestions or improvements, feel free to submit a pull request or open an issue. 
+Community collaboration is key to the success of this project.
 
 ## Licensing
 `PR-Template-Guide` is licensed under the [MIT License](LICENSE). Feel free to use and adapt these templates for your projects, both personal and professional.
